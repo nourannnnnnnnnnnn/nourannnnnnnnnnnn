@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nouran
-
+👋 Hi, I’m @nouran
 👀 I’m interested in AI, Computer Vision, and their applications
 🌱 I’m currently learning  machine learning techniques and their applications
 💞️ I’m looking to collaborate on AI-driven projects that solve real-world problems as well as web projects
